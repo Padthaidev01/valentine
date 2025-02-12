@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "game-y-n-main/index.html",
+      "src": "valentine/game-y-n-main/index.html",
       "use": "@vercel/static"
     }
   ]
