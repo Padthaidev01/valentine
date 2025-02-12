@@ -1,8 +1,8 @@
 {
-    "builds": [
-      {
-        "src": "game-y-n-main/index.html",
-        "use": "@vercel/static"
-      }
-    ]
-  }
+  "builds": [
+    {
+      "src": "game-y-n-main/index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
